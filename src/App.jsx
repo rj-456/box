@@ -15,7 +15,7 @@ function Box({ subject }) {
 }
 
 function App() {
-  const surname = "Rancis Santos";
+  const surname = "Santos";
   const subject= "CPEITEL";
   
   return (
